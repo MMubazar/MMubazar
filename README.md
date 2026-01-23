@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mubazar Qureshi</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmubazar" alt="mmubazar" /></a> </p>
+- 🔭 I’m currently working on **MEAN and MERN Stack, Next JS & TypeScript**
 
-- 🌱 I’m currently learning **Open Shift**
+- 🌱 I’m currently learning **Postgres SQL, Creating AI Chat boats**
 
 - 👯 I’m looking to collaborate on **Kids play App, Books App, etc.**
 
-- 🤝 I’m looking for help with **MEAN Stack development**
+- 💬 Ask me about Web Development
 
-- 💬 Ask me about **Angular, Node js, Ionic Angular, Flutter**
+- 📫 How to reach me <a href="mailto:mubazarqureshi22@gmail.com">mubazarqureshi22@gmail.com</a>
 
-- ⚡ Fun fact **Learn New languages**
+- ⚡ Fun fact: From UI to APIs, **I enjoy building things end-to-end**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mmubazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mmubazar" height="30" width="40" /></a>
 <a href="https://twitter.com/mm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mmubazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmubazar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-mubazar-qureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmubazar" height="30" width="40" /></a>
 <a href="https://kaggle.com/mmubazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mmubazar" height="30" width="40" /></a>
-<a href="https://fb.com/mmubazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mmubazar" height="30" width="40" /></a>
-<a href="https://instagram.com/mmubazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmubazar" height="30" width="40" /></a>
+<a href="https://instagram.com/i_am_m_u_b_a_z_a_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmubazar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
