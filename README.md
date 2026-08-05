@@ -70,7 +70,6 @@ Currently at **SeeBiz**, I contribute to a B2B wholesale marketplace, an AI SaaS
       ## 📊 GitHub Stats
 
       ![Stats](https://github-readme-stats.vercel.app/api?username=MMubazar&show_icons=true&theme=radical)
-      ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MMubazar&theme=radical)
     ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MMubazar&theme=react-dark&hide_border=true)
 
       ## 🏆 Trophies
