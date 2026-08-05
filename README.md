@@ -82,10 +82,18 @@ Currently at **SeeBiz**, I contribute to a B2B wholesale marketplace, an AI SaaS
 
 ---
 
-      ## 📬 Contact Me
+---
 
-      [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mubazar-qureshi/)
-      [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.mubazar.dev@gmail.com)
+<div align="center">
 
-      </div>
-      
+## 📬 Let's Connect
+
+I'm always open to collaboration, freelance projects, and new opportunities. Let's build something great together!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mubazar-qureshi/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.mubazar.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MMubazar)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11&height=120&section=footer" width="100%"/>
+
+</div>
