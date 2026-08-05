@@ -47,7 +47,7 @@ Currently at **SeeBiz**, I contribute to a B2B wholesale marketplace, an AI SaaS
 
       ---
 
-      ## 📁 Featured Projects
+      ## 💼 Featured Projects
 
       **SeeBiz — B2B Wholesale Marketplace**
       Contributed to a supplier-buyer marketplace platform using Angular, Node.js, MongoDB, Redis, and Elasticsearch-powered search.
