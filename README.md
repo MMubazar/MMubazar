@@ -93,6 +93,16 @@ Worked on speaker management and session scheduling features using Next.js and R
 
 ---
 
+## 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MMubazar&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="MMubazar Activity Graph" width="95%" />
+
+</div>
+
+---
+
 ---
 
 <div align="center">
