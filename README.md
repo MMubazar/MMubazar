@@ -76,7 +76,11 @@ Currently at **SeeBiz**, I contribute to a B2B wholesale marketplace, an AI SaaS
 
       ![Trophies](https://github-profile-trophy.vercel.app/?username=MMubazar&theme=radical&no-frame=true&row=1)
 
-      ---
+## :snake: Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/MMubazar/MMubazar/output/github-contribution-grid-snake.svg)
+
+---
 
       ## 📬 Contact Me
 
