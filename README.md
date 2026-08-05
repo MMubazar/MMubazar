@@ -20,10 +20,10 @@
 
 Currently at **SeeBiz**, I contribute to a B2B wholesale marketplace, an AI SaaS platform, and an AI product with RAG-based context-aware features.
 
-- 🔧 End-to-end contribution — from data modeling to cloud deployment
-- - 🤖 AI feature work — LLM APIs, RAG pipelines, OpenAI integration
-  - - ⚡ Performance-focused — Redis caching, Elasticsearch, scalable REST APIs
-    - - 🌍 Remote collaboration with cross-functional teams
+  - 🔧 End-to-end contribution — from data modeling to cloud deployment
+  - 🤖 AI feature work — LLM APIs, RAG pipelines, OpenAI integration
+  - ⚡ Performance-focused — Redis caching, Elasticsearch, scalable REST APIs
+  - 🌍 Remote collaboration with cross-functional teams
      
       - ---
 
