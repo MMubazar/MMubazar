@@ -1,36 +1,87 @@
-<h1 align="center">Hi 👋, I'm Muhammad Mubazar Qureshi</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<div align="center">
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmubazar" alt="mmubazar" /></a> </p> -->
-- 🔭 I’m currently working on **MEAN and MERN Stack, Next JS & TypeScript**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11&height=200&section=header&text=Muhammad%20Mubazar%20Qureshi&fontSize=40&fontColor=fff&desc=Full%20Stack%20Software%20Engineer%20(MEAN/MERN)&descAlign=50&descAlignY=65" width="100%"/>
 
-- 🌱 I’m currently learning **Postgres SQL, Creating AI Chat boats**
+### RAG / LLM AI Feature Builder
 
-- 👯 I’m looking to collaborate on **Kids play App, Books App, etc.**
+📍 Lahore, Pakistan &nbsp;|&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=MMubazar&color=blue)
 
-- 💬 Ask me about Web Development
+![Open to Work](https://img.shields.io/badge/-OPEN%20TO%20WORK-brightgreen?style=for-the-badge)
+![Available for Freelance](https://img.shields.io/badge/-AVAILABLE%20FOR%20FREELANCE-8A2BE2?style=for-the-badge)
+![Actively Building](https://img.shields.io/badge/-ACTIVELY%20BUILDING-orange?style=for-the-badge)
 
-- 📫 How to reach me <a href="mailto:mubazarqureshi22@gmail.com">mubazarqureshi22@gmail.com</a>
+</div>
 
-- ⚡ Fun fact: From UI to APIs, **I enjoy building things end-to-end**.
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://dev.to/mmubazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mmubazar" height="30" width="40" /></a> -->
-<a href="https://twitter.com/mm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-mubazar-qureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmubazar" height="30" width="40" /></a>
-<!-- <a href="https://kaggle.com/mmubazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mmubazar" height="30" width="40" /></a> -->
-<a href="https://instagram.com/i_am_m_u_b_a_z_a_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmubazar" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+3+ years of experience building and scaling production SaaS and web applications across the **MERN** and **MEAN** stacks. I work on high-throughput APIs, search systems, and AI-powered features such as RAG pipelines and LLM-based generation, collaborating end-to-end from architecture through deployment.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/MM"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MM" /></a></p><br><br>
+Currently at **SeeBiz**, I contribute to a B2B wholesale marketplace, an AI SaaS platform, and an AI product with RAG-based context-aware features.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmubazar&show_icons=true&locale=en&layout=compact" alt="mmubazar" /></p>
+- 🔧 End-to-end contribution — from data modeling to cloud deployment
+- - 🤖 AI feature work — LLM APIs, RAG pipelines, OpenAI integration
+  - - ⚡ Performance-focused — Redis caching, Elasticsearch, scalable REST APIs
+    - - 🌍 Remote collaboration with cross-functional teams
+     
+      - ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmubazar&show_icons=true&locale=en" alt="mmubazar" /></p>
+      ## 🛠️ Tech Stack
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmubazar&" alt="mmubazar" /></p> -->
+      ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+      ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+      ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+      ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+      ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+      ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+      ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+      ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+      ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+      ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+      ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+      ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+      ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+      ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+      ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+      ---
+
+      ## 📁 Featured Projects
+
+      **SeeBiz — B2B Wholesale Marketplace**
+      Contributed to a supplier-buyer marketplace platform using Angular, Node.js, MongoDB, Redis, and Elasticsearch-powered search.
+      `Angular` `Node.js` `MongoDB` `Redis` `Elasticsearch`
+
+      **Krub.ai — AI SaaS Platform**
+      Helped build AI-driven community features using Next.js, Node.js, and TypeScript, with OpenAI API integration.
+      `Next.js` `Node.js` `TypeScript` `OpenAI API`
+
+      **Turnfeat Ai — Intelligent SaaS Platform**
+      Contributed to RAG pipeline and LLM integration work using React, Node.js, and PostgreSQL.
+      `React` `Node.js` `PostgreSQL` `RAG`
+
+      **Cyberfora — Cybersecurity Conference Platform**
+      Worked on speaker management and session scheduling features using Next.js and React.
+      `Next.js` `React`
+
+      ---
+
+      ## 📊 GitHub Stats
+
+      ![Stats](https://github-readme-stats.vercel.app/api?username=MMubazar&show_icons=true&theme=radical)
+      ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MMubazar&theme=radical)
+
+      ## 🏆 Trophies
+
+      ![Trophies](https://github-profile-trophy.vercel.app/?username=MMubazar&theme=radical&no-frame=true&row=1)
+
+      ---
+
+      ## 📬 Contact Me
+
+      [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mubazar-qureshi/)
+      [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.mubazar.dev@gmail.com)
+
+      </div>
+      
