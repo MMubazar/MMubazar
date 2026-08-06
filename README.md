@@ -81,10 +81,10 @@ Built real-time AI call assistance features including RAG pipeline, live speech-
 
 ## 📊 GitHub Stats
 
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200" align="right" alt="Programming GIF"/>
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MMubazar&theme=radical)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MMubazar&theme=react-dark&hide_border=true)
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200" align="right" alt="Programming GIF"/>
 
 ## 🏆 Trophies
 
