@@ -1,7 +1,7 @@
 <div align="center">
 <!-- updated -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11&height=200&section=header&text=Muhammad%20Mubazar%20Qureshi&fontSize=40&fontColor=fff&desc=Full%20Stack%20Software%20Engineer%20(MEAN/MERN)&descAlign=50&descAlignY=65" width="100%"/>
-
+<!-- refresh -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=61DAFB&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=3%2B+Years+Building+Production+SaaS;Angular+%7C+React+%7C+Next.js+%7C+Node+%7C+MongoDB;RAG+%2F+LLM+AI+Feature+Builder)](https://git.io/typing-svg)
 
 📍 Lahore, Pakistan &nbsp;|&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=MMubazar&color=blue)
